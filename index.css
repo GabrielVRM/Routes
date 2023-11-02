@@ -23,5 +23,13 @@ nav{
 nav a{
     all: initial;
     color: aliceblue;
+    cursor: pointer;
 
+
+}
+#pages h1{
+    color: beige;
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
 }
